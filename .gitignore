@@ -1,0 +1,16 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Datasets and Artifacts
+data/
+artifacts/models/
+artifacts/data/
+*.csv
+*.json
+*.joblib
+
+# Python Cache
+__pycache__/
+*.pyc
